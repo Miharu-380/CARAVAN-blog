@@ -3,7 +3,7 @@
 
 ## 概要
 
-ブログ　（DMMWEBCAMP課題）
+ブログサイト　（DMMWEBCAMP学習）
 
 ### ページ構成
 
