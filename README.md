@@ -1,24 +1,20 @@
-# README
+# CARAVAN
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## 概要
 
-* Ruby version
+ブログ　（DMMWEBCAMP課題）
 
-* System dependencies
+### ページ構成
 
-* Configuration
+- topページ
+- 投稿詳細ページ
+- 投稿フォームページ
+- 編集フォームページ
 
-* Database creation
+### 実装機能
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- ブログの投稿
+- ブログの閲覧（一覧・詳細）
+- 投稿したブログの編集
+- 投稿したブログの削除
